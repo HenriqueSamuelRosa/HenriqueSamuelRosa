@@ -32,14 +32,74 @@ printGreeting();
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60" />    <img
-src="https://reactrouter.com/twitterimage.jpg" width="60" height="60" />
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ReactJS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>VSCode</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React Router</strong></span><br>
+            <img height="32px" src="https://cdn.pellerex.com/public/ecosystem/web/content/web-spa-routing/pellerex-spa-routing.png">
+            <td width="80px" align="center">
+            <span><strong>React Hooks</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
           
-          
-          
-          
-          
-          
-          
+### Contatos
+<div >
+<a target="_blank" href="mailto:samuel_kuik@hotmail.com"><img src="https://cara.gointegrator.com/wp-content/uploads/2020/12/microsoft-outlook-logo-1-1024x442.png" align="center" width="111" height"28"></a>
+<a href="https://www.linkedin.com/in/henriquesrosa/" target="_blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank" width="111" height"28"></a>
+<a href="https://wa.link/8vxw8j" target="_blank"><img align="center" src="https://www.adomonline.com/wp-content/uploads/2021/08/WhatsApp.png" target="_blank" width="111" height"28"></a>
+</div>
+
+<div>
+<a href="https://github.com/HenriqueSamuelRosa">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSamuelRosa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueSamuelRosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
             
           
