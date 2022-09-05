@@ -16,7 +16,7 @@ printGreeting();
 
 <p>
   Trabalhei por quase 7 anos na área de Logistica.
-  Porém depois de todo esses anos na mesma empresa, senti que
+  Porém depois de todos esses anos na mesma empresa, senti que
   precisava mudar a minha área de atuação para que eu pudesse me sentir realizado comigo mesmo.
   
   Sempre fui apaixonado por tecnologia, mas nunca tive a oportunidade de estudar.
@@ -29,3 +29,17 @@ printGreeting();
   Comecei os estudos em Março de 2022, e, a cada dia me sinto mais realizado e sinto
   que fiz a escolha certa...
 </p>
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60" />    <img
+src="https://reactrouter.com/twitterimage.jpg" width="60" height="60" />
+          
+          
+          
+          
+          
+          
+          
+            
+          
