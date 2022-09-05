@@ -92,8 +92,8 @@ printGreeting();
 ### Contatos
 <div >
 <a target="_blank" href="mailto:samuel_kuik@hotmail.com"><img src="https://cara.gointegrator.com/wp-content/uploads/2020/12/microsoft-outlook-logo-1-1024x442.png" align="center" width="111" height"28"></a>
-<a href="https://www.linkedin.com/in/henriquesrosa/" target="_blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank" width="111" height"28"></a>
-<a href="https://wa.link/8vxw8j" target="_blank"><img align="center" src="https://www.adomonline.com/wp-content/uploads/2021/08/WhatsApp.png" target="_blank" width="111" height"28"></a>
+<a target="_blank" href="https://www.linkedin.com/in/henriquesrosa/" ><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank" width="111" height"28"></a>
+<a  target="_blank" href="https://wa.link/8vxw8j"><img align="center" src="https://www.adomonline.com/wp-content/uploads/2021/08/WhatsApp.png" target="_blank" width="111" height"28"></a>
 </div>
 
 <div>
