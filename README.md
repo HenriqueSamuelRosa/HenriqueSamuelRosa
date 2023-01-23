@@ -34,6 +34,42 @@ printGreeting();
 
 <table width="320px">
     <tbody>
+       <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Node.JS</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Express</strong></span><br>
+            <img height="32" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>TypeScript</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Docker</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+            </td>
+        </tr>
+      <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>MYSQL</strong></span><br>
+            <img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Sequelize</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
+            </td>            
+            <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Mongoose</strong></span><br>
+            <img height="32px"                                                            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">
+            </td>
+        </tr>   
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Javascript</strong></span><br>
