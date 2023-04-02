@@ -1,4 +1,4 @@
-```js
+```javascript
 const greeting = 'Hello Word';
 const fullName = 'Henrique Samuel Rosa';
 
@@ -119,6 +119,11 @@ Em março de 2022, comecei a estudar na Trybe, uma escola de tecnologia com comp
 <p>
 Atualmente, não tenho nenhum projeto pronto para compartilhar no GitHub. No entanto, estou trabalhando em alguns projetos pessoais para consolidar minhas habilidades e experiência em programação.
 <p/>
+
+### Certificados
+  - [Fundamentos do Desenvolvimento Web - Trybe](https://www.credential.net/7f9d5ab2-a223-470b-9a59-a6cf689b579a#gs.u8yhs2)
+  - [Front-end - Trybe](https://www.credential.net/4f09aa34-2f97-4aef-a229-2a123cc4d881#gs.u8ypsy)
+  - [Back-end - Trybe](https://www.credential.net/56ba080b-06b8-40b1-b2f9-a2f326e39271#gs.u91rtd)
           
 ### Contatos
 <div >
