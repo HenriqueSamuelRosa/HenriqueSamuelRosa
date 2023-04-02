@@ -15,19 +15,9 @@ printGreeting();
 <h2>Sobre Mim</h2>
 
 <p>
-  Trabalhei por quase 7 anos na área de Logistica.
-  Porém depois de todos esses anos na mesma empresa, senti que
-  precisava mudar a minha área de atuação para que eu pudesse me sentir realizado comigo mesmo.
-  
-  Sempre fui apaixonado por tecnologia, mas nunca tive a oportunidade de estudar.
-  Então comecei a pesquisar cursos na área, e me deparei com a Trybe, uma escola
-  de tecnologia que tem comprometimento genuíno com o sucesso
-  profissional das pessoas estudantes.
-  Tendo em seu curriculo o Modelo de Sucesso Compartilhado,onde o estudante tem a opção de pagar apenas quando já estiver trabalhando.
-  E isso era tudo o que eu precisava para dar o pontapé inicial,
-  
-  Comecei os estudos em Março de 2022, e, a cada dia me sinto mais realizado e sinto
-  que fiz a escolha certa...
+Olá, meu nome é Henrique Samuel Rosa, e sou um desenvolvedor iniciante apaixonado por tecnologia. Antes de começar minha jornada no mundo da tecnologia, trabalhei por quase 7 anos na área de Logística. No entanto, senti que precisava mudar minha área de atuação para me sentir realizado e desafiado profissionalmente.
+
+Em março de 2022, comecei a estudar na Trybe, uma escola de tecnologia com comprometimento genuíno com o sucesso profissional dos alunos. E desde então, a cada dia, sinto que fiz a escolha certa.
 </p>
 
 ### Ferramentas e Tecnologias
@@ -124,6 +114,11 @@ printGreeting();
         </tr>
     </tbody>
 </table>
+
+### Projetos
+<p>
+Atualmente, não tenho nenhum projeto pronto para compartilhar no GitHub. No entanto, estou trabalhando em alguns projetos pessoais para consolidar minhas habilidades e experiência em programação.
+<p/>
           
 ### Contatos
 <div >
